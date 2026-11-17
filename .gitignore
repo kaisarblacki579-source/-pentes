@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Reports (jangan commit hasil scan)
+vulnerability_report_*.txt
+vulnerability_report_*.html
+vulnerability_report_*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+.env
+*.log
